@@ -1,0 +1,22 @@
+download the zip file
+
+extract it to c://xampp/htdocs folder
+
+open chrome or anr browser enter localhost/phpmyadmin
+
+and press enter
+
+create new database as 'database'
+
+import 'database.sql' file from database folder
+
+and type localhost/orderproject
+
+and press enter
+
+admin login:
+contact darshanpb111@gmail.com
+
+user login:
+ email:'dheerajshetty@gmail.com'
+ password:'dheeraj'
